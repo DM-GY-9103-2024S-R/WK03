@@ -3,5 +3,5 @@
 
 - Lists
 - Objects
-- Data
-- Graphs
+- Functions
+- Classes
